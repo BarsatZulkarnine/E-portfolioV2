@@ -26,6 +26,7 @@ a {
 
 section {
   background-color: rgb(245, 245, 245);
+  z-index: 2;
 }
 
 .orange {
@@ -640,7 +641,7 @@ footer {
 
 .shape {
   position: fixed;
-  z-index: 1;
+  
 }
 
 .shape--0 {

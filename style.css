@@ -681,6 +681,9 @@ footer {
   left: 80vw;
 }
 
+
+
+
 /* Small phones, tablets, large smart phones */
 @media (max-width: 768px) {
   .title {
